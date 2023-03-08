@@ -1,2 +1,2 @@
 #!/bin/bash
- ls -ma | sort
+ ls -amp | sort -d
