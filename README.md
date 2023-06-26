@@ -13,7 +13,7 @@ Welcome to the ALX System Engineering-DevOps repository! This repository contain
 
 The **0x00-shell_basics** directory contains a collection of small projects focused on the basics of shell scripting. These projects cover fundamental concepts and commands in the shell environment.
 
-Potential Functions and Code Examples:
+Functions and Code Examples:
 - `hello_world.sh`: A shell script that prints "Hello, World!" to the terminal.
 - `list_files.sh`: A shell script that lists all the files in the current directory.
 
@@ -21,7 +21,7 @@ Potential Functions and Code Examples:
 
 The **0x01-shell_permissions** directory contains a collection of small projects focused on shell permissions. These projects cover concepts such as file permissions, ownership, and managing access rights in the shell environment.
 
-Potential Functions and Code Examples:
+Functions and Code Examples:
 - `change_permissions.sh`: A shell script that changes the permissions of a file or directory.
 - `set_owner.sh`: A shell script that sets the owner of a file or directory.
 
@@ -29,7 +29,7 @@ Potential Functions and Code Examples:
 
 The **0x02-shell_redirections** directory contains a collection of small projects focused on shell redirections and input/output manipulation. These projects cover concepts such as redirecting input and output streams, file descriptors, and basic file manipulation.
 
-Potential Functions and Code Examples:
+Functions and Code Examples:
 - `read_file.sh`: A shell script that reads the contents of a file and prints them to the terminal.
 - `write_to_file.sh`: A shell script that writes user input to a file.
 
@@ -37,7 +37,7 @@ Potential Functions and Code Examples:
 
 The **0x03-shell_variables_expansion** directory contains a collection of small projects focused on shell variable expansion and manipulation. These projects cover concepts such as environment variables, parameter expansion, and command substitution.
 
-Potential Functions and Code Examples:
+Functions and Code Examples:
 - `print_variable.sh`: A shell script that prints the value of a specific environment variable.
 - `parameter_expansion.sh`: A shell script that demonstrates parameter expansion techniques.
 
