@@ -75,4 +75,44 @@ The **2-bring_me_home** directory contains a project focused on changing the wor
 
 ## 13. 3-listfiles
 
-The **3-listfiles** directory
+The **3-listfiles** directory contains a project focused on listing files in a directory, including hidden files, in the shell environment.
+
+## 14. 4-listmorefiles
+
+The **4-listmorefiles** directory contains a project focused on listing files in a directory, including hidden files and file sizes, in the shell environment.
+
+## 15. 5-listfilesdigitonly
+
+The **5-listfilesdigitonly** directory contains a project focused on listing files in a directory, including only those with numeric names, in the shell environment.
+
+## 16. 6-firstdirectory
+
+The **6-firstdirectory** directory contains a project focused on creating a directory in the shell environment.
+
+## 17. 7-movethatfile
+
+The **7-movethatfile** directory contains a project focused on moving a file to another directory and renaming it in the shell environment.
+
+## 18. 8-firstdelete
+
+The **8-firstdelete** directory contains a project focused on deleting a file in the shell environment.
+
+## 19. 9-firstdirdeletion
+
+The **9-firstdirdeletion** directory contains a project focused on deleting a directory in the shell environment.
+
+## 20. school.mgc
+
+The **school.mgc** file is a magic file that describes the file type "ALX school" for the `file` command in the shell environment.
+
+## Contributing
+
+Contributions to this project are welcome. If you find any issues or would like to add new features or tasks, please feel free to submit a pull request. When contributing, please ensure that you follow the existing coding style and include relevant documentation and test cases.
+
+## License
+
+This project is licensed under the ALX License.
+
+## Contact
+
+If you have any questions or suggestions regarding this project, please feel free to contact Mohamed KADI at handskadi@gmail.com.
