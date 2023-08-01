@@ -17,5 +17,5 @@ do
 		echo $count
 	fi
 	((count++))
-Done
+done
 
