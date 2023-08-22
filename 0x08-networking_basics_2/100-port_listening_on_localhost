@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# a script that listens on portr 98 on our local host
-
-nc -l localhost 98
