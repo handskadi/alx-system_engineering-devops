@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-# By Mkweb
-puts ARGV[0].scan(/^\d{10}$/).join
+#by Mkweb
+puts ARGV[0].scan(/[A-Z]+/).join
