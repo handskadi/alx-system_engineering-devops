@@ -6,6 +6,6 @@ package { 'flask':
 
 # Install Werkzeug version 2.0.0
 package { 'werkzeug':
-  ensure   => '2.1.0',
+  ensure   => '0.16.1',
   provider => 'pip3',
 }
