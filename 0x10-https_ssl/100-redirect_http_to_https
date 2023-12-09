@@ -43,3 +43,8 @@ backend http_back
         redirect scheme https if !{ ssl_fc }
         server 320353-web-01 100.25.179.31:80
         server 320353-web-02 54.237.87.213:80
+
+frontend http_redirect
+    	bind *:80
+    	mode http
+	redirect scheme https code 301 if !{ ssl_fc }
