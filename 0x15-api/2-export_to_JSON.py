@@ -15,8 +15,8 @@ if __name__ == '__main__':
     todos = requests.get(url + "/todos", params={"userId": employeeId}).json()
 
     userName = employee.get('username')
-    fileName = employeeId + ".json"
+    fileName = str(employeeId) + ".json"
 
     line = []
     for info in todos:
-        info.append({'task': info.get('title'), })
+        line.append({'task': info.get('title')})
